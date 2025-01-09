@@ -1,0 +1,6 @@
+{
+    "watch":["src"],
+    "ext":".js,.ts,.d.ts",
+    "exec": "npx ts-node --transpile-only ./src/index.ts"
+}
+
